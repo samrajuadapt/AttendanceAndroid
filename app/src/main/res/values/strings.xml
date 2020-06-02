@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="sp_key">sp_data</string>
+    <string name="err_empty">This filed is empty</string>
+</resources>
